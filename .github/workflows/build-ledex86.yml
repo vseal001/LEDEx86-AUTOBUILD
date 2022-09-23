@@ -3,7 +3,7 @@
 #   Author: JK/Cath
 #=================================================
 
-name: Build G-DOCK
+name: Build LEDEX86
 
 on:
   repository_dispatch:
