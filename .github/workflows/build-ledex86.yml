@@ -85,4 +85,4 @@ jobs:
       uses: actions/upload-artifact@master
       with:
         name: G-DOCK
-        path: ./lede/bin/targets/x86/generic/
+        path: ./lede/bin/targets/
